@@ -1,0 +1,102 @@
+[
+  {
+    "run": 1,
+    "connected": "0.0037888110000210418s",
+    "wireguard_setup": "0.06550847799999815s",
+    "transferred_pre_checkpoint": "0.24158111899998858s",
+    "generated_checkpoint": "0.3951020650000032s",
+    "transferred_checkpoint": "0.00536046300001658s",
+    "restored_container": "0.40651644700000134s",
+    "overall_migration": "~1.178250810999998s"
+  },
+  {
+    "run": 2,
+    "connected": "0.00539186299999983s",
+    "wireguard_setup": "0.06540456899998048s",
+    "transferred_pre_checkpoint": "0.15671414800002026s",
+    "generated_checkpoint": "0.38157516300000793s",
+    "transferred_checkpoint": "0.005468064999973876s",
+    "restored_container": "0.46486890300002415s",
+    "overall_migration": "~1.1340039430000104s"
+  },
+  {
+    "run": 3,
+    "connected": "0.0034617419999847243s",
+    "wireguard_setup": "0.05225469199999111s",
+    "transferred_pre_checkpoint": "0.14357859300000086s",
+    "generated_checkpoint": "0.506537963999989s",
+    "transferred_checkpoint": "0.007749652000001106s",
+    "restored_container": "0.393016235999994s",
+    "overall_migration": "~1.1737212269999873s"
+  },
+  {
+    "run": 4,
+    "connected": "0.003566563000021006s",
+    "wireguard_setup": "0.05638888999999381s",
+    "transferred_pre_checkpoint": "0.23530849400000875s",
+    "generated_checkpoint": "0.4087431400000128s",
+    "transferred_checkpoint": "0.005314171999998507s",
+    "restored_container": "0.3850948159999916s",
+    "overall_migration": "~1.162872340000007s"
+  },
+  {
+    "run": 5,
+    "connected": "0.0052604429999973945s",
+    "wireguard_setup": "0.07806651999999303s",
+    "transferred_pre_checkpoint": "0.1700847410000108s",
+    "generated_checkpoint": "0.5216675040000212s",
+    "transferred_checkpoint": "0.005543170000009923s",
+    "restored_container": "0.4109156209999867s",
+    "overall_migration": "~1.2512649829999987s"
+  },
+  {
+    "run": 6,
+    "connected": "0.003231472999999596s",
+    "wireguard_setup": "0.052648481999995056s",
+    "transferred_pre_checkpoint": "0.12406990399998108s",
+    "generated_checkpoint": "0.3423810349999883s",
+    "transferred_checkpoint": "0.007806428999998616s",
+    "restored_container": "0.4050355950000153s",
+    "overall_migration": "~0.9837187560000018s"
+  },
+  {
+    "run": 7,
+    "connected": "0.00292823000000908s",
+    "wireguard_setup": "0.05750586100000987s",
+    "transferred_pre_checkpoint": "0.13179927400000224s",
+    "generated_checkpoint": "0.40612930899999355s",
+    "transferred_checkpoint": "0.0053429530000244085s",
+    "restored_container": "0.43726595499998666s",
+    "overall_migration": "~1.1096959140000138s"
+  },
+  {
+    "run": 8,
+    "connected": "0.004958748000007063s",
+    "wireguard_setup": "0.05719390499999122s",
+    "transferred_pre_checkpoint": "0.2559566620000169s",
+    "generated_checkpoint": "0.461537098000008s",
+    "transferred_checkpoint": "0.00501711199999022s",
+    "restored_container": "0.3669957859999897s",
+    "overall_migration": "~1.2016181529999983s"
+  },
+  {
+    "run": 9,
+    "connected": "0.00311262499999998s",
+    "wireguard_setup": "0.05797173500002373s",
+    "transferred_pre_checkpoint": "0.11990492500001437s",
+    "generated_checkpoint": "0.4989183029999822s",
+    "transferred_checkpoint": "0.0061909789999958775s",
+    "restored_container": "0.41374298499999895s",
+    "overall_migration": "~1.1650406449999764s"
+  },
+  {
+    "run": 10,
+    "connected": "0.003229091000008566s",
+    "wireguard_setup": "0.05804481399999872s",
+    "transferred_pre_checkpoint": "0.1378846589999796s",
+    "generated_checkpoint": "0.39661461099998974s",
+    "transferred_checkpoint": "0.004932413999995333s",
+    "restored_container": "0.396158961999987s",
+    "overall_migration": "~1.0482411179999929s"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "run": 1,
+    "connected": "0.0036593720000013263s",
+    "wireguard_setup": "0.2870018590000001s",
+    "transferred_pre_checkpoint": "23.59223341900001s",
+    "generated_checkpoint": "0.43746285900000714s",
+    "transferred_checkpoint": "0.005273384999995301s",
+    "restored_container": "23.568504704999995s",
+    "overall_migration": "48.01436331399999s"
+  },
+  {
+    "run": 2,
+    "connected": "0.003973545000000911s",
+    "wireguard_setup": "0.32990912400000383s",
+    "transferred_pre_checkpoint": "23.527291526000006s",
+    "generated_checkpoint": "0.5417449010000013s",
+    "transferred_checkpoint": "0.00530919300000221s",
+    "restored_container": "23.948965596000008s",
+    "overall_migration": "48.46751484s"
+  },
+  {
+    "run": 3,
+    "connected": "0.004398366999993186s",
+    "wireguard_setup": "0.3885120320000084s",
+    "transferred_pre_checkpoint": "23.492767313s",
+    "generated_checkpoint": "0.47023037799999656s",
+    "transferred_checkpoint": "0.004389962999994168s",
+    "restored_container": "24.244656549s",
+    "overall_migration": "48.732004156s"
+  },
+  {
+    "run": 4,
+    "connected": "0.0036957630000031827s",
+    "wireguard_setup": "0.38870103s",
+    "transferred_pre_checkpoint": "23.47279257000001s",
+    "generated_checkpoint": "0.4601494000000059s",
+    "transferred_checkpoint": "0.005303014000006101s",
+    "restored_container": "23.941907849999993s",
+    "overall_migration": "48.40682846000001s"
+  },
+  {
+    "run": 5,
+    "connected": "0.004522393000002012s",
+    "wireguard_setup": "0.4699773499999935s",
+    "transferred_pre_checkpoint": "23.780115522999992s",
+    "generated_checkpoint": "0.5350475560000092s",
+    "transferred_checkpoint": "0.004081514999995761s",
+    "restored_container": "24.096621041999995s",
+    "overall_migration": "49.008947559999996s"
+  }
+]
